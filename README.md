@@ -1,1 +1,0 @@
-# intellij-linux-settings
