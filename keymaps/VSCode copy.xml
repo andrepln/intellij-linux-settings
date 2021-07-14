@@ -3,7 +3,11 @@
     <keyboard-shortcut first-keystroke="ctrl back_quote" />
     <keyboard-shortcut first-keystroke="shift ctrl dead_acute" />
   </action>
+  <action id="Coverage">
+    <keyboard-shortcut first-keystroke="shift ctrl r" />
+  </action>
   <action id="Maven.Reimport">
     <keyboard-shortcut first-keystroke="shift ctrl m" />
   </action>
+  <action id="Refactorings.QuickListPopupAction" />
 </keymap>
